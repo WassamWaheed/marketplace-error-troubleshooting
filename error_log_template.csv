@@ -1,0 +1,3 @@
+marketplace,sku,error_code,error_message,root_cause,corrective_action,status
+Amazon,DEMO-001,DEMO-001,Required attribute missing,Source data incomplete,Populate required field,Resolved
+Walmart,DEMO-002,DEMO-002,Invalid attribute value,Source value not allowed,Map to valid marketplace value,Review
