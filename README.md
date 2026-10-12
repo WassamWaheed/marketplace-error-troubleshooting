@@ -12,6 +12,10 @@ A structured playbook for diagnosing **Amazon, Walmart, and multi-channel catalo
 - Suppressed or incomplete listings
 - Image/content requirement problems
 
+## Included Files
+- [Troubleshooting Playbook](troubleshooting_playbook.md)
+- [Error Log Template](error_log_template.csv)
+
 ## Diagnostic Method
 
 **Reproduce → Identify Scope → Validate Source Data → Check Marketplace Rules → Correct → Re-upload → Verify**
